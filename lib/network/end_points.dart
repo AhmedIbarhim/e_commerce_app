@@ -1,0 +1,11 @@
+const String baseUrl = 'https://student.valuxapps.com/api/';
+const String REGISTER = 'register';
+const String LOGIN = 'login';
+const String HOME = 'home';
+const String CATEGORY = 'categories';
+const String CATEGORYDETAILS ='products';
+const String PROFILE= 'profile';
+const String Updated_Profile= 'update-profile';
+const String FAVOURITE= 'favorites';
+const String CARTS= 'carts';
+const String SEARCH = 'products/search';
